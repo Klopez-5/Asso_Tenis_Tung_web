@@ -1,0 +1,82 @@
+/****************************/
+
+
+/*     08.1 POST IMAGENES    */
+
+
+/****************************/
+
+.titulo-h2 {
+    text-align: center;
+}
+
+.publucado-fech {
+    color: #00a7bd;
+}
+
+.basic-post-au {
+    padding-top: 3.75rem;
+    padding-bottom: 4rem;
+    background: #cbd3da;
+}
+
+.basic-post-indi {
+    padding-top: 2rem;
+    padding-bottom: 0.5rem;
+    background: #ffffff;
+    border-bottom-color: #00a7bd;
+    box-shadow: 0 0 12px 2px #888888;
+    border: solid #00bfd8 2px;
+}
+
+.contente-text {
+    padding-top: 2rem;
+    padding-bottom: 0.5rem;
+    width: 650px;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
+
+.contente-galery-2 {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 500px;
+    margin: auto;
+}
+
+.card-galery-2 {
+    width: 500px;
+    height: 250px;
+    margin-bottom: 1px;
+    object-fit: contain;
+}
+
+.aline-centro-padre {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+.aline-centro-hijo {
+    height: 100px;
+    width: 500px;
+    margin: 0px auto;
+}
+
+.contente-post-img {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 50%;
+    margin: auto;
+}
+
+.card-post-img {
+    width: 600px;
+    height: 450px;
+    margin-bottom: 30px;
+    object-fit: contain;
+}
